@@ -1,4 +1,4 @@
-module github.com/jonfriesen/playwright-go-stealth
+module github.com/tonnidiaz/playwright-go-stealth
 
 go 1.22.0
 
