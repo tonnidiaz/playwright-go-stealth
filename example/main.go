@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	stealth "github.com/jonfriesen/playwright-go-stealth"
 	"github.com/mxschmitt/playwright-go"
+	stealth "github.com/tonnidiaz/playwright-go-stealth"
 )
 
 const targetSite = "https://bot.sannysoft.com"
